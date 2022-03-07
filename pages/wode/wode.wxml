@@ -1,0 +1,96 @@
+<!--pages/wode/wode.wxml-->
+<view class="body">
+<view class="head">
+<view class="head_1">
+<navigator url="mine/mine" class="head_tp"> 
+<image src="../../static/image/touxiang.png" class="head_tp" ></image></navigator>
+<view class="head_name">李小松的果果</view>
+<view class="head_jieshao">优质原创作者</view>
+</view>
+<view class="head_2">
+<view class="head_wea">
+<image src="../../static/image/yun.png" class="head_yun"></image>
+<view class="head_wendu">21℃</view></view>
+<image class="head_qiandao" src="../../static/image/qiandao.png"></image>
+<view class="qd">签到</view>
+</view>
+</view>
+
+<view class="function">
+<view>
+<image src="../../static/image/1.png" class="tp1"></image>
+<view class="function_name">我的关注</view>
+</view>
+<view>
+<image src="../../static/image/2.png" class="tp1"></image>
+<view class="function_name">咨询收藏</view>
+</view>
+<view>
+<image src="../../static/image/3.png" class="tp1"></image>
+<view class="function_name">阅读记录</view>
+</view>
+<view>
+<image src="../../static/image/4.png" class="tp1"></image>
+<view class="function_name">我赞过的</view>
+</view>
+<view class="function_name">
+<image src="../../static/image/5.png" class="tp1"></image>
+<view class="function_name">邀请好友</view>
+</view>
+</view>
+<view class="fenjiexian"></view>
+<view class="shop">
+<image src="../../static/image/shop.png" class="shop_tp"></image>
+<view class="shop_wenzi">
+<view class="shop1">积分商城</view>
+<view class="shop2">商品种类丰富总有你想要的</view>
+</view>
+<view class="yaoqing">马上邀请</view>
+</view>
+<view class="fenjiexian">
+</view>
+<view class="news">
+<image src="../../static/image/n_60.png" class="news_img"></image>
+  <view class="news_news">我的消息</view>
+  <image src="../../static/image/right.png" class="news_img1"></image>
+</view>
+<view class="fenjiexian"></view>
+<view class="news">
+<image src="../../static/image/n_63.png" class="news_img"></image>
+  <view class="news_news">我的订阅</view>
+  <image src="../../static/image/right.png" class="news_img1"></image>
+</view>
+<view class="fenjiexian1"></view>
+<view class="news">
+<image src="../../static/image/n_65.png" class="news_img"></image>
+  <view class="news_news">我的参与</view>
+  <image src="../../static/image/right.png" class="news_img1"></image>
+</view>
+<view class="fenjiexian1"></view>
+<view class="news">
+<image src="../../static/image/n_67.png" class="news_img"></image>
+  <view class="news_news">绑定邀请码</view>
+  <image src="../../static/image/right.png" class="news_img2"></image>
+</view>
+<view class="fenjiexian1"></view><view class="news">
+<image src="../../static/image/n_69.png" class="news_img"></image>
+  <view class="news_news">账户安全</view>
+  <image src="../../static/image/right.png" class="news_img1"></image>
+</view>
+<view class="fenjiexian"></view>
+<view class="news">
+<image src="../../static/image/n_75.png" class="news_img"></image>
+  <view class="news_news">我要投稿</view>
+  <image src="../../static/image/right.png" class="news_img1"></image>
+</view>
+<view class="fenjiexian1"></view>
+<view class="jifen">
+<image src="../../static/image/n_78.png" class="jifen_img"></image>
+  <view class="jifen_size">
+  <view class="jifen_size1">赢取积分</view>
+  <view class="jifen_size2">赢积分兑换好礼等你来挑战</view>
+</view>
+<view class="jifen_huoqu">抽积分</view>
+</view>
+</view>
+
